@@ -1,0 +1,78 @@
+{
+  "name": "Salmon Smorgasbord Sandwiches with Edamummus",
+  "serves": 4,
+  "meal": [
+    "sandwich",
+    "lunch",
+    "brunch",
+    "m1",
+    "m2",
+    "m3"
+  ],
+  "allergens": [
+    "soy",
+    "seafood"
+  ],
+  "ingridients": [
+    {
+      "amount": "5",
+      "unit": "oz",
+      "ingridient": "frozen shelled edamame, defrosted"
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tsp",
+      "ingridient": "tahini"
+    },
+    {
+      "amount": "1 1/2",
+      "unit": "tbsp",
+      "ingridient": "lemon juice"
+    },
+    {
+      "amount": "1",
+      "unit": "tsp",
+      "ingridient": "lemon zest, finely grated"
+    },
+    {
+      "amount": "1",
+      "unit": "",
+      "ingridient": "small garlic clove"
+    },
+    {
+      "amount": "1",
+      "unit": "tbsp",
+      "ingridient": "olive oil"
+    },
+    {
+      "amount": "4",
+      "unit": "slices",
+      "ingridient": "whole-grain rye pumpernickel bread, toasted"
+    },
+    {
+      "amount": "6",
+      "unit": "oz",
+      "ingridient": "6 ounces cold-smoked salmon, thinly sliced"
+    },
+    {
+      "amount": "1/2",
+      "unit": "",
+      "ingridient": "cucumber, cut into thin ribbons with vegetable peeler (3/4 cup)"
+    },
+    {
+      "amount": "1",
+      "unit": "cup",
+      "ingridient": "pea shoots or baby salad greens"
+    },
+    {
+      "amount": "to taste",
+      "unit": "",
+      "ingridient": "Sea salt"
+    }
+  ],
+  "directions": [
+    "In a food processor or blender, combine the edamame, tahini, lemon juice, lemon zest, garlic and olive oil with 2–3 tablespoons water and blend, stopping once to scrape down the sides of the bowl, until the mixture is smooth. Season with salt to taste and set aside. (The edamame spread can be made up to three days in advance and stored in an airtight container.)",
+    "Spread the edamame mixture evenly on the toast. Top with the salmon, cucumber ribbons and greens. Sprinkle pepper over the sandwiches and serve"
+  ],
+  "nutrition": "Serves: 4 |  Serving Size: 1 sandwich (1 slice bread, 2 1/2 tablespoons edammumus, 1 1/2 ounce salmon, 4 strips cucumber, 1/4 cup greens)\n\nPer serving: Calories: 286; Total Fat: 12g; Saturated Fat: 2g; Monounsaturated Fat: 3g; Cholesterol: 23mg; Sodium: 539mg; Carbohydrate: 28g; Dietary Fiber: 6g; Sugar: 4g; Protein: 18g\n\nNutrition Bonus: Potassium: 225mg; Iron: 16%; Vitamin A: 11%; Vitamin C: 12%; Calcium: 6%"
+}
