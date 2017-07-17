@@ -1,0 +1,35 @@
+{
+  "name": "",
+  "serves": 0,
+  "serving_size": ""
+  "meal": ["", "", ""],
+  "allergens": ["", ""],
+  "prep_time": "",
+  "cook_time": "",
+  "ingridients": [
+    {
+      "amount": "",
+      "unit": "",
+      "ingridient": "",
+      "substitute": {
+        "amount": "",
+        "unit": "",
+        "ingridient": ""
+      }
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "ingridient": "",
+      "substitute": {}
+    },
+    {
+      "amount": "",
+      "unit": "",
+      "ingridient": "",
+      "substitute": {}
+    }
+  ],
+  "directions": ["", ""],
+  "nutrition": ""
+}

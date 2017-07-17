@@ -1,6 +1,7 @@
 {
   "name": "Salmon Smorgasbord Sandwiches with Edamummus",
   "serves": 4,
+  "serving_size": "",
   "meal": [
     "sandwich",
     "lunch",
@@ -11,64 +12,77 @@
   ],
   "allergens": [
     "soy",
-    "seafood"
+    "seafood",
+    "wheat"
   ],
   "prep_time": "20 mins",
+  "cook_time": "",
   "ingridients": [
     {
       "amount": "5",
       "unit": "oz",
-      "ingridient": "frozen shelled edamame, defrosted"
+      "ingridient": "frozen shelled edamame, defrosted",
+      "substitute": {}
     },
     {
       "amount": "1 1/2",
       "unit": "tsp",
-      "ingridient": "tahini"
+      "ingridient": "tahini",
+      "substitute": {}
     },
     {
       "amount": "1 1/2",
       "unit": "tbsp",
-      "ingridient": "lemon juice"
+      "ingridient": "lemon juice",
+      "substitute": {}
     },
     {
       "amount": "1",
       "unit": "tsp",
-      "ingridient": "lemon zest, finely grated"
+      "ingridient": "lemon zest, finely grated",
+      "substitute": {}
     },
     {
       "amount": "1",
       "unit": "",
-      "ingridient": "small garlic clove"
+      "ingridient": "small garlic clove",
+      "substitute": {}
     },
     {
       "amount": "1",
       "unit": "tbsp",
-      "ingridient": "olive oil"
+      "ingridient": "olive oil",
+      "substitute": {}
     },
     {
       "amount": "4",
       "unit": "slices",
-      "ingridient": "whole-grain rye pumpernickel bread, toasted"
+      "ingridient": "whole-grain rye pumpernickel bread, toasted",
+      "substitute": {}
     },
     {
       "amount": "6",
       "unit": "oz",
-      "ingridient": "6 ounces cold-smoked salmon, thinly sliced"
+      "ingridient": "6 ounces cold-smoked salmon, thinly sliced",
+      "substitute": {}
     },
     {
       "amount": "1/2",
       "unit": "",
-      "ingridient": "cucumber, cut into thin ribbons with vegetable peeler (3/4 cup)"
+      "ingridient": "cucumber, cut into thin ribbons with vegetable peeler (3/4 cup)",
+      "substitute": {}
     },
     {
       "amount": "1",
       "unit": "cup",
-      "ingridient": "pea shoots or baby salad greens"
+      "ingridient": "pea shoots or baby salad greens",
+      "substitute": {}
     },
     {
       "amount": "to taste",
       "unit": "",
-      "ingridient": "Sea salt"
+      "ingridient": "Sea salt",
+      "substitute": {}
     }
   ],
   "directions": [
