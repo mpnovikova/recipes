@@ -6,30 +6,40 @@
   "allergens": ["", ""],
   "prep_time": "",
   "cook_time": "",
-  "ingridients": [
-    {
-      "amount": "",
-      "unit": "",
-      "ingridient": "",
-      "substitute": {
-        "amount": "",
-        "unit": "",
-        "ingridient": ""
-      }
+  "shelf_life": "",
+  "components": {
+    "component_name_e_g_salad": {
+      "ingridients": [
+        {
+          "amount": "",
+          "unit": "",
+          "ingridient": "",
+          "brand": "",
+          "substitute": {
+            "amount": "",
+            "unit": "",
+            "ingridient": "",
+            "brand": ""
+          }
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingridient": "",
+          "brand": "",
+          "substitute": {}
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingridient": "",
+          "brand": "",
+          "substitute": {}
+        }
+      ],
+      "directions": ["", ""],
     },
-    {
-      "amount": "",
-      "unit": "",
-      "ingridient": "",
-      "substitute": {}
-    },
-    {
-      "amount": "",
-      "unit": "",
-      "ingridient": "",
-      "substitute": {}
-    }
-  ],
-  "directions": ["", ""],
+    component_name_e_g_dressing: {}
+  },
   "nutrition": ""
 }
