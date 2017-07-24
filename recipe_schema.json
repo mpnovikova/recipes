@@ -1,45 +1,51 @@
 {
-  "name": "",
-  "serves": 0,
-  "serving_size": ""
-  "meal": ["", "", ""],
-  "allergens": ["", ""],
-  "prep_time": "",
-  "cook_time": "",
-  "shelf_life": "",
-  "components": {
-    "component_name_e_g_salad": {
-      "ingridients": [
-        {
-          "amount": "",
-          "unit": "",
-          "ingridient": "",
-          "brand": "",
-          "substitute": {
-            "amount": "",
-            "unit": "",
-            "ingridient": "",
-            "brand": ""
-          }
-        },
-        {
-          "amount": "",
-          "unit": "",
-          "ingridient": "",
-          "brand": "",
-          "substitute": {}
-        },
-        {
-          "amount": "",
-          "unit": "",
-          "ingridient": "",
-          "brand": "",
-          "substitute": {}
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Recipe Schema"
+  "description": "Describes a food recipe",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string" },
+    "serves": { "type": "number" },
+    "serving_size": { "type": "string" },
+    "meal": { "type": "array", "items": { "type": "string" }, "uniqueItems": true},
+    "allergens": { "type": "array", "items": { "type": "string" }, "uniqueItems": true},
+    "prep_time": { "type": "string" },
+    "cook_time": { "type": "string" },
+    "shelf_life": { "type": "string" },
+    "tools": { "type": "array", "items": { "type": "string" }, "uniqueItems": true},
+    "parts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string", "description": "Salad" },
+          "ingridients": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": { "type": "number" },
+                "unit": { "type": "string" },
+                "amount": { "type": "string" },
+                "code": { "type": "string" },
+                "brand": { "type": "string" },
+                "substitute": { 
+                  "type": "object", 
+                  "properties": {
+                    "name": { "type": "number" },
+                    "unit": { "type": "string" },
+                    "amount": { "type": "string" },
+                    "code": { "type": "string" },
+                    "brand": { "type": "string" }                    
+                  }
+                }
+              }
+            }
+          },
+          "prep_steps": { "type": "array", "items": { "type": "string" }},
+          "cook_steps": { "type": "array", "items": { "type": "string" }}
         }
-      ],
-      "directions": ["", ""],
-    },
-    component_name_e_g_dressing: {}
-  },
-  "nutrition": ""
+      }
+    }
+  }
 }

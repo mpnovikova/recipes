@@ -1,0 +1,51 @@
+{
+  "name": "",
+  "serves": 0,
+  "serving_size": ""
+  "meal": ["", "", ""],
+  "allergens": ["", ""],
+  "prep_time": "",
+  "cook_time": "",
+  "shelf_life": "",
+  "tools": "",
+  "components": {
+    "component_name_e_g_salad": {
+      "ingridients": [
+        {
+          "amount": "",
+          "unit": "",
+          "ingridient": "",
+          "brand": "",
+          "substitute": {
+            "amount": "",
+            "unit": "",
+            "ingridient": "",
+            "brand": ""
+          }
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingridient": "",
+          "brand": "",
+          "substitute": {}
+        },
+        {
+          "amount": "",
+          "unit": "",
+          "ingridient": "",
+          "brand": "",
+          "substitute": {}
+        }
+      ],
+      "prep_directions": ["", ""],
+      "cook_directions": ["", ""],
+    },
+    "component_name_e_g_dressing": {
+      "ingridients": [],
+      "prep_directions": ["", ""],
+      "cook_directions": ["", ""]      
+    }
+  },
+  "nutrition": ""
+}
