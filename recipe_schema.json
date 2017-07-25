@@ -1,5 +1,4 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
   "title": "Recipe Schema",
   "description": "Describes a food recipe",
   "type": "object",
