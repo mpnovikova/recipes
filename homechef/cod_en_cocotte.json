@@ -1,0 +1,86 @@
+{
+  "name": "Cod en Cocotte",
+  "description": "with zucchini, mushrooms, and parsley gremolata",
+  "author": "Chef Jimmy Madla",
+  "serves": 2,
+  "meal": "dinner, m5",
+  "season": "summer",
+  "tools": ["mixing bowl", "large non-stick pan"],
+  "allergens": ["fish"],
+  "parts": [
+    { 
+      "prep_time": "10 mins",
+      "cook_time": "30 mins",
+      "ingredients": [
+        {
+          "amount": "4",
+          "unit": "oz",
+          "name": "cremini mushrooms"
+        },
+        {
+          "amount": "2",
+          "name": "garlic cloves"
+        },
+        {
+          "amount": "2",
+          "name": "zucchini"
+        },
+        {
+          "amount": "12",
+          "unit": "oz",
+          "name": "cod"
+        }, 
+        {
+          "amount": "5 1/2",
+          "unit": "fl oz",
+          "name": "tomato juice"
+        },
+        {
+          "amount": "1",
+          "name": "shallot"
+        },
+        {
+          "amount": "1/4",
+          "unit": "oz",
+          "name": "parsley"
+        },
+        {
+          "amount": "1",
+          "name": "lemon"
+        },
+        {
+          "amount": "1/4",
+          "unit": "tsp",
+          "name": "red pepper flakes"
+        },
+        {
+          "amount": "2",
+          "unit": "tsp",
+          "name": "vegetable base"
+        },
+        {
+          "amount": "to taste",
+          "name": "salt and pepper"
+        }                        
+      ],
+      "prep_steps": [
+        "Thoroughly rinse produce and pat dry.",
+        "Quarter mushrooms.",
+        "Peel and mince shallot.",
+        "Mince garlic.",
+        "Stem and mince parsley.",
+        "Trim zucchini ends, halve lengthwise, and cut into 1/4\" half-moons on an angle.",
+        "Zest lemon, halve, and juice.",
+        "Pat cod dry, and season both sides with 1/4 tsp. salt and a pinch of pepper."      
+      ],
+      "cook_steps": [
+        "Place a large non-stick pan over medium-high heat. Add 2 tsp. olive oil and cod to hot pan. Cook undisturbed until lightly browned, 2-3 minutes per side. Transfer to a plate. Cod will finish cooking in a later step. Reserve pan; no need to wipe clean.",
+        "Return pan used to sear cod to medium-high heat. Add 2 tsp. olive oil and mushrooms to hot pan. Season with a pinch of salt and pepper, and stir occasionally until lightly browned, 3-5 minutes.",
+        "Add shallot, garlic (reserve a pinch for gremolata), and 1/4 the red pepper flakes to pan with mushrooms. Stir occasionally until aromatic, 30-90 seconds. Add tomato juice, vegetable base, and half the parsley (reserve remaining for gremolata). Bring to a boil.",
+        "To pan with vegetables, add zucchini, 1 tsp. lemon zest (reserve remaining for gremolata), and cod. Reduce heat to medium, cover, and cook until cod reaches a minimum internal temperature of 145 degrees, 4-6 minutes. Stir in 2 tsp. lemon juice. Taste, and add remaining red pepper flakes if desired.",
+        "Make gremolata by combining remaining garlic, remaining parsley, and remaining lemon zest in a mixing bowl.",
+        "Serve stew on a plate. Top with cod, and garnish with gremolata."
+      ]
+    },
+  ]
+}
