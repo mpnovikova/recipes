@@ -15,6 +15,10 @@
     "allergens": { "type": "array", "items": { "type": "string" }, "uniqueItems": true},
     "shelf_life": { "type": "string" },
     "tools": { "type": "array", "items": { "type": "string" }, "uniqueItems": true},
+    "prep_time": { "type": "string" },
+    "cook_time": { "type": "string" },          
+    "prep_steps": { "type": "array", "items": { "type": "string" }},
+    "cook_steps": { "type": "array", "items": { "type": "string" },    
     "parts": {
       "type": "array",
       "items": {
