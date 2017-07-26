@@ -18,7 +18,8 @@
     "prep_time": { "type": "string" },
     "cook_time": { "type": "string" },          
     "prep_steps": { "type": "array", "items": { "type": "string" }},
-    "cook_steps": { "type": "array", "items": { "type": "string" },    
+    "cook_steps": { "type": "array", "items": { "type": "string" }},
+    "url": { "type": "string" },    
     "parts": {
       "type": "array",
       "items": {

@@ -5,6 +5,7 @@
   "serves": 2,
   "meal": "dinner, m5",
   "season": "summer",
+  "url": "https://www.homechef.com/meals/cod-en-cocotte",
   "tools": ["mixing bowl", "large non-stick pan"],
   "allergens": ["fish"],
   "parts": [
