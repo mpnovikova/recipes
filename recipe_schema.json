@@ -26,16 +26,18 @@
             "type": "array",
             "items": {
               "type": "object",
+              "required": ["name", "amount"],
               "properties": {
-                "name": { "type": "number" },
+                "name": { "type": "string" },
                 "unit": { "type": "string" },
                 "amount": { "type": "string" },
                 "code": { "type": "string" },
                 "brand": { "type": "string" },
                 "substitute": { 
-                  "type": "object", 
+                  "type": "object",
+                  "required": ["name", "amount"],
                   "properties": {
-                    "name": { "type": "number" },
+                    "name": { "type": "string" },
                     "unit": { "type": "string" },
                     "amount": { "type": "string" },
                     "code": { "type": "string" },
