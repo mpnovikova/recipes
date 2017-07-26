@@ -4,9 +4,13 @@
   "type": "object",
   "properties": {
     "name": { "type": "string" },
+    "description": { "type": "string" },
+    "image": { "type": "string"},
+    "author": {"type": "string"},
     "serves": { "type": "number" },
     "serving_size": { "type": "string" },
     "meal": { "type": "array", "items": { "type": "string" }, "uniqueItems": true},
+    "season": { "type": "array", "items": { "type": "string" }, "uniqueItems": true},
     "allergens": { "type": "array", "items": { "type": "string" }, "uniqueItems": true},
     "prep_time": { "type": "string" },
     "cook_time": { "type": "string" },
