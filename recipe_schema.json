@@ -22,7 +22,7 @@
         "type": "object",
         "properties": {
           "name": { "type": "string", "description": "Salad" },
-          "ingridients": {
+          "ingredients": {
             "type": "array",
             "items": {
               "type": "object",
