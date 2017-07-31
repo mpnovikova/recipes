@@ -1,0 +1,64 @@
+{
+  "name": "Blueberry Colada Smoothie Bowl",
+  "author": "TIU",
+  "serves": 1,
+  "meal": [
+    "breakfast",
+    "snack",
+    "m1",
+    "m2",
+    "m4"
+  ],
+  "allergens": [
+    "nuts"
+  ],
+  "tools": [
+    "blender"
+  ],
+  "parts": [
+    {
+      "cook_steps": [
+        "Blend protein powder, banana, blueberries, and coconut milk",
+        "Garnish with almond butter, coconut chips, cocoa nibs, chia seeds"
+      ],
+      "ingredients": [
+        {
+          "name": "protein powder",
+          "amount": "1",
+          "unit": "scoop"
+        },
+        {
+          "name": "frozen banana",
+          "amount": "1/2"
+        },
+        {
+          "name": "frozen blueberries",
+          "amount": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "unsweetened coconut milk",
+          "amount": "1",
+          "unit": "cup"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "name": "almond butter"
+        },
+        {
+          "amount": "to taste",
+          "name": "coconut chips"
+        },
+        {
+          "amount": "to taste",
+          "name": "cocoa nibs"
+        },
+        {
+          "amount": "to taste",
+          "name": "chia seeds"
+        }
+      ]
+    }
+  ]
+}

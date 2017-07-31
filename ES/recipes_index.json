@@ -1,0 +1,20 @@
+{
+	"settings": {},
+	"mappings": {
+		"breakfasts": {
+			"dynamic": true
+		},
+		"lunches": {
+			"dynamic": true
+		},
+		"dinners": {
+			"dynamic": true
+		},
+		"snacks": {
+			"dynamic": true
+		},
+		"desserts": {
+			"dynamic": true
+		}
+	}
+}
